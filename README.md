@@ -6,24 +6,35 @@ I plan to organize this into multiple sub-folders (each having multiple subtopic
 1. Verilog Language
 
     a. Basics
+
     b. Vectors
+
     c. Heirarchy
+
     d. Procedures
+
     e. Extra Verilog Features
 
 2. Combinational Logic
 
     a. Basic Gates
+
     b. Multiplexers
+
     c. Arithmetic Circuits
+
     d. Karnaugh Map to Circuits
 
 3. Sequential Logic
 
     a. Latches and Flip-Flops
+
     b. Counters
+
     c. Shift Registers
+
     d. More Circuits
+
     e. Finite State Machines
 
 4. Larger Circuits
@@ -31,6 +42,7 @@ I plan to organize this into multiple sub-folders (each having multiple subtopic
 5. Reading Simulations
 
     a. Finding bugs in code
+
     b. building a circuit from a simulation waveform
 
 6. Writing Testbenches
